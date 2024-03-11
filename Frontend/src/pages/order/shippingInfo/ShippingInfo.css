@@ -1,0 +1,18 @@
+#ShippingInfo{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../../../assets/img/HomeThirdMainImg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#PersonalBGImg{
+    background-image:url('../../../assets/img/dark-gradient-background-with-copy-space_53876-99548.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
+}
+#CardBackIMg{
+    background: rgb(185, 184, 202);
+  background: linear-gradient(90deg, rgb(184, 181, 221) 18%, rgba(220, 227, 231, 0.88) 52%, rgb(255, 255, 255) 87%);
+  color: #f2f0ed !important;
+  }

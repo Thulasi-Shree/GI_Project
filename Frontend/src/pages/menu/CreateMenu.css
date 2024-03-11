@@ -1,0 +1,29 @@
+.CreateMenu{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../../assets/img/HomeThirdMainImg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+input[type="text"] {
+background-color: transparent;
+color:white;
+}
+#CardBackIMg1{
+    /* background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(230, 45, 45, 0.7)), url('../../assets/img/Gradient-colorBG.webp'); */
+    /* background-color: #c1bca183; */
+    background: rgb(185, 184, 202);
+    background: linear-gradient(90deg, rgb(184, 181, 221) 18%, rgba(220, 227, 231, 0.88) 52%, rgb(255, 255, 255) 87%);
+    color: rgb(9, 8, 8) !important;
+    text-shadow: 1px 1px #d8c895 !important;
+    background-color: transparent;
+  } 
+  
+  #CardText{
+    color: rgb(9, 8, 8);
+    text-shadow: 1px 1px #d8c895;
+   }
+
+.form-control{
+    background-color: transparent;
+    color:white;
+}

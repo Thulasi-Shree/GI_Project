@@ -1,0 +1,21 @@
+.ConfirmOrderMainImg{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../../assets/img/HomeThirdMainImg.jpg');
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#CardLogText{
+    color: white;
+    text-shadow: 1px 1.7px #5a3a07;
+    background-color: transparent;
+  }
+#ConfrimOrderCard{
+    background-image: url('../../assets/img/dark-gradient-background-with-copy-space_53876-99548.avif');;
+    color: white
+}
+
+#CardBackIMg{
+    background: rgb(185, 184, 202);
+    background: linear-gradient(90deg, rgb(184, 181, 221) 18%, rgba(220, 227, 231, 0.88) 52%, rgb(255, 255, 255) 87%);
+  }
